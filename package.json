@@ -1,0 +1,14 @@
+{
+  "name": "@d2api/manifest-patcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "type": "module",
+  "license": "UNLICENSED",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {
+    "lodash": "^4.17.20",
+    "@types/lodash": "^4.14.161"
+  }
+}
